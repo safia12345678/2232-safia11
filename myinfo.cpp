@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Safia"<<endl;
+    cout<<"Safia Khanam"<<endl;
     cout<<"2232"<<endl;
 }
